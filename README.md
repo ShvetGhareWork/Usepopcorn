@@ -1,3 +1,5 @@
+Deployed Link: https://v0-responsive-website-redesign-khaki.vercel.app/
+
 🍿 Usepopcorn
 
 Usepopcorn is an online movie discovery platform where users can browse a vast collection of movies, add favorites, and access detailed information about each title. Inspired by modern movie databases and listing platforms, it delivers a simple and interactive user experience for cinema enthusiasts.
